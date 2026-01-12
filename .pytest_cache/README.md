@@ -1,8 +1,20 @@
-# pytest cache directory #
+# Unit & Integration Testing Lab
 
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+## Student Details
+**Name:** Samran Ali  
+**Roll Number:** 231400153  
 
-**Do not** commit this to version control.
+## Project Description
+This project demonstrates **unit testing** and **integration testing** for a simple banking application. The application includes functions for:
 
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+- Depositing funds
+- Withdrawing funds
+- Calculating interest
+- Checking loan eligibility
+- Transferring funds
+
+**Unit testing** ensures each function works correctly in isolation, while **integration testing** verifies that multiple functions work together as expected.  
+
+---
+
+## Project Structure
